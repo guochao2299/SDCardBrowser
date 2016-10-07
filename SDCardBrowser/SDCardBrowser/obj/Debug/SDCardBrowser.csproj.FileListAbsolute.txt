@@ -1,0 +1,10 @@
+G:\MyBlog\SDCardBrowser\SDCardBrowser\bin\Debug\SDCardBrowser.exe
+G:\MyBlog\SDCardBrowser\SDCardBrowser\bin\Debug\SDCardBrowser.pdb
+G:\MyBlog\SDCardBrowser\SDCardBrowser\obj\Debug\SDCardBrowser.frmMain.resources
+G:\MyBlog\SDCardBrowser\SDCardBrowser\obj\Debug\SDCardBrowser.frmSettings.resources
+G:\MyBlog\SDCardBrowser\SDCardBrowser\obj\Debug\SDCardBrowser.Properties.Resources.resources
+G:\MyBlog\SDCardBrowser\SDCardBrowser\obj\Debug\SDCardBrowser.csproj.GenerateResource.Cache
+G:\MyBlog\SDCardBrowser\SDCardBrowser\obj\Debug\SDCardBrowser.exe
+G:\MyBlog\SDCardBrowser\SDCardBrowser\obj\Debug\SDCardBrowser.pdb
+G:\MyBlog\SDCardBrowser\SDCardBrowser\obj\Debug\SDCardBrowser.g.resources
+G:\MyBlog\SDCardBrowser\SDCardBrowser\obj\Debug\SDCardBrowser.ucFile.resources
